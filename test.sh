@@ -1,1 +1,1 @@
-echo "pr=5,This is a master merge!"
+echo "pr=6,This is a master merge!"
